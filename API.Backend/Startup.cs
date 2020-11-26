@@ -42,7 +42,7 @@ namespace API.Backend
                     {
                         Name = "André Gomes Santos",
                         Email = "del.gsantos75@gmail.com",
-                        Url = new Uri("https://twitter.com/spboyer"),
+                        Url = new Uri("https://github.com/andregsantos/API.Backend"),
                     }
                 });
 
